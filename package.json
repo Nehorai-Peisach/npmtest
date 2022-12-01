@@ -1,0 +1,22 @@
+{
+  "name": "is-number",
+  "version": "1.0.0",
+  "description": "Is the string is number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nehorai-Peisach/npmtest.git"
+  },
+  "keywords": [
+    "Number"
+  ],
+  "author": "Nehorai Peisach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nehorai-Peisach/npmtest/issues"
+  },
+  "homepage": "https://github.com/Nehorai-Peisach/npmtest#readme"
+}
